@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Update_bookmarks_in_PDF_NET", "Update_bookmarks_in_PDF_NET\Update_bookmarks_in_PDF_NET.csproj", "{BE922E94-7968-4FBF-A88E-D866B8F40222}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE922E94-7968-4FBF-A88E-D866B8F40222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE922E94-7968-4FBF-A88E-D866B8F40222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE922E94-7968-4FBF-A88E-D866B8F40222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE922E94-7968-4FBF-A88E-D866B8F40222}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E508172-FB5D-409E-9901-CF56BA537873}
+	EndGlobalSection
+EndGlobal
