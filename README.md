@@ -13,12 +13,12 @@ In this repository, we will explore various use cases of PDF bookmarks and how t
 
 Sample name | Description
 --- | ---
-[Add bookmarks in PDF document]() | Add bookmarks in an existing PDF document. 
-[Customize PDF bookmarks styles]() | Customize the bookmarks in PDF document. 
-[Insert bookmarks in PDF document]() | Insert bookmarks in an existing PDF document. 
-[Update bookmarks in PDF document]() | Update or modify bookmarks in an existing PDF document. 
-[Remove bookmarks from PDF document]() | Remove bookmarks from an existing PDF document. 
-[Get bookmarks index from PDF]() | Get bookmarks and their page indexes from an existing PDF document. 
+[Add bookmarks in PDF document](https://github.com/SyncfusionExamples/Create-update-and-remove-bookmarks-in-PDF-document/tree/master/Add_bookmarks_in_PDF_NET) | Add bookmarks in an existing PDF document. 
+[Customize PDF bookmarks styles](https://github.com/SyncfusionExamples/Create-update-and-remove-bookmarks-in-PDF-document/tree/master/Customize_PDF_document_bookmarks_NET) | Customize the bookmarks in PDF document. 
+[Insert bookmarks in PDF document](https://github.com/SyncfusionExamples/Create-update-and-remove-bookmarks-in-PDF-document/tree/master/Insert_bookmarks_in_existing_PDF_NET) | Insert bookmarks in an existing PDF document. 
+[Update bookmarks in PDF document](https://github.com/SyncfusionExamples/Create-update-and-remove-bookmarks-in-PDF-document/tree/master/Update_bookmarks_in_PDF_NET) | Update or modify bookmarks in an existing PDF document. 
+[Remove bookmarks from PDF document](https://github.com/SyncfusionExamples/Create-update-and-remove-bookmarks-in-PDF-document/tree/master/Remove_bookmarks_from_existing_PDF) | Remove bookmarks from an existing PDF document. 
+[Get bookmarks index from PDF](https://github.com/SyncfusionExamples/Create-update-and-remove-bookmarks-in-PDF-document/tree/master/Get_bookmark_page_index_in_PDF) | Get bookmarks and their page indexes from an existing PDF document. 
 
 ## Add bookmarks in PDF document 
 With the help of Syncfusion .NET PDF library, users can easily add parent and child bookmarks to both new and existing PDF documents. The following code example shows how to add bookmarks in an existing PDF document using C#.  
