@@ -1,8 +1,8 @@
 # Create, update and remove bookmarks in PDF document 
 
-The Syncfusion .NET PDF library offers extensive support for creating, updating, and removing bookmarks in a PDF document. 
+The Syncfusion&reg; .NET PDF library offers extensive support for creating, updating, and removing bookmarks in a PDF document. 
 
-In this repository, we will explore various use cases of PDF bookmarks and how they can be implemented using the Syncfusion .NET PDF library. Some of the use cases that we will cover in this article include: 
+In this repository, we will explore various use cases of PDF bookmarks and how they can be implemented using the Syncfusion&reg; .NET PDF library. Some of the use cases that we will cover in this article include: 
 
 * Add bookmarks in PDF document 
 * Customize the bookmark style 
@@ -21,7 +21,7 @@ Sample name | Description
 [Get bookmarks index from PDF](https://github.com/SyncfusionExamples/Create-update-and-remove-bookmarks-in-PDF-document/tree/master/Get_bookmark_page_index_in_PDF) | Get bookmarks and their page indexes from an existing PDF document. 
 
 ## Add bookmarks in PDF document 
-With the help of Syncfusion .NET PDF library, users can easily add parent and child bookmarks to both new and existing PDF documents. The following code example shows how to add bookmarks in an existing PDF document using C#.  
+With the help of Syncfusion&reg; .NET PDF library, users can easily add parent and child bookmarks to both new and existing PDF documents. The following code example shows how to add bookmarks in an existing PDF document using C#.  
 
 ```csharp
 
@@ -106,7 +106,7 @@ By executing this code example, you will get a PDF document like the following s
 <img src="Add_bookmarks_in_PDF_NET/Screenshot/Customize_bookmarks.png" alt="PDF Form" width="100%" Height="Auto"/>
 
 ## Insert bookmarks in an existing PDF document
-To insert bookmarks at any position in the bookmarks collection of an existing PDF document using the Syncfusion .NET PDF library, we need to load the existing PDF document first. The library loads all the bookmarks of the document, which enables us to insert bookmarks at any location based on the bookmark collection. 
+To insert bookmarks at any position in the bookmarks collection of an existing PDF document using the Syncfusion&reg; .NET PDF library, we need to load the existing PDF document first. The library loads all the bookmarks of the document, which enables us to insert bookmarks at any location based on the bookmark collection. 
 
 The following code example shows how to insert bookmark in an existing PDF document using C#.
 
@@ -159,7 +159,7 @@ By executing this code example, you will get a PDF document like the following s
 <img src="Add_bookmarks_in_PDF_NET/Screenshot/Update_bookmarks.png" alt="PDF Form" width="100%" Height="Auto"/>
 
 ## Remove bookmarks from an existing PDF document
-If you're looking for a way to remove parent or child bookmarks from a PDF, Syncfusion provides a simple solution to achieve this.   
+If you're looking for a way to remove parent or child bookmarks from a PDF, Syncfusion&reg; provides a simple solution to achieve this.   
 
 You can remove bookmarks from an existing PDF document using C# with the following code example. 
 
@@ -208,22 +208,22 @@ int index = bookmark[0].Destination.PageIndex;
 * Run the application.
 
 # Resources
-*   **Product page:** [Syncfusion PDF Framework](https://www.syncfusion.com/document-processing/pdf-framework/net)
-*   **Documentation page:** [Syncfusion .NET PDF library](https://help.syncfusion.com/file-formats/pdf/overview)
-*   **Online demo:** [Syncfusion .NET PDF library - Online demos](https://ej2.syncfusion.com/aspnetcore/PDF/CompressExistingPDF#/bootstrap5)
-*   **Blog:** [Syncfusion .NET PDF library - Blog](https://www.syncfusion.com/blogs/category/pdf)
-*   **Knowledge Base:** [Syncfusion .NET PDF library - Knowledge Base](https://www.syncfusion.com/kb/windowsforms/pdf)
-*   **EBooks:** [Syncfusion .NET PDF library - EBooks](https://www.syncfusion.com/succinctly-free-ebooks)
-*   **FAQ:** [Syncfusion .NET PDF library - FAQ](https://www.syncfusion.com/faq/)
+*   **Product page:** [Syncfusion&reg; PDF Framework](https://www.syncfusion.com/document-processing/pdf-framework/net)
+*   **Documentation page:** [Syncfusion&reg; .NET PDF library](https://help.syncfusion.com/file-formats/pdf/overview)
+*   **Online demo:** [Syncfusion&reg; .NET PDF library - Online demos](https://ej2.syncfusion.com/aspnetcore/PDF/CompressExistingPDF#/bootstrap5)
+*   **Blog:** [Syncfusion&reg; .NET PDF library - Blog](https://www.syncfusion.com/blogs/category/pdf)
+*   **Knowledge Base:** [Syncfusion&reg; .NET PDF library - Knowledge Base](https://www.syncfusion.com/kb/windowsforms/pdf)
+*   **EBooks:** [Syncfusion&reg; .NET PDF library - EBooks](https://www.syncfusion.com/succinctly-free-ebooks)
+*   **FAQ:** [Syncfusion&reg; .NET PDF library - FAQ](https://www.syncfusion.com/faq/)
 
 # Support and feedback
-*   For any other queries, reach our [Syncfusion support team](https://www.syncfusion.com/support/directtrac/incidents/newincident?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples) or post the queries through the [community forums](https://www.syncfusion.com/forums?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples).
-*   Request new feature through [Syncfusion feedback portal](https://www.syncfusion.com/feedback?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples).
+*   For any other queries, reach our [Syncfusion&reg; support team](https://www.syncfusion.com/support/directtrac/incidents/newincident?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples) or post the queries through the [community forums](https://www.syncfusion.com/forums?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples).
+*   Request new feature through [Syncfusion&reg; feedback portal](https://www.syncfusion.com/feedback?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples).
 
 # License
 This is a commercial product and requires a paid license for possession or use. Syncfusion’s licensed software, including this component, is subject to the terms and conditions of [Syncfusion's EULA](https://www.syncfusion.com/eula/es/?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples). You can purchase a licnense [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples) or start a free 30-day trial [here](https://www.syncfusion.com/account/manage-trials/start-trials?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples).
 
 # About Syncfusion
-Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 26,000+ customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
+Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion&reg; has more than 26,000+ customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
 
 Today, we provide 1600+ components and frameworks for web ([Blazor](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [ASP.NET Core](https://www.syncfusion.com/aspnet-core-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [ASP.NET MVC](https://www.syncfusion.com/aspnet-mvc-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [ASP.NET WebForms](https://www.syncfusion.com/jquery/aspnet-webforms-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [JavaScript](https://www.syncfusion.com/javascript-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [Angular](https://www.syncfusion.com/angular-ui-components?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [React](https://www.syncfusion.com/react-ui-components?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [Vue](https://www.syncfusion.com/vue-ui-components?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), and [Flutter](https://www.syncfusion.com/flutter-widgets?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples)), mobile ([Xamarin](https://www.syncfusion.com/xamarin-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [Flutter](https://www.syncfusion.com/flutter-widgets?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [UWP](https://www.syncfusion.com/uwp-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), and [JavaScript](https://www.syncfusion.com/javascript-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples)), and desktop development ([WinForms](https://www.syncfusion.com/winforms-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [WPF](https://www.syncfusion.com/wpf-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [WinUI(Preview)](https://www.syncfusion.com/winui-controls?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [Flutter](https://www.syncfusion.com/flutter-widgets?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples) and [UWP](https://www.syncfusion.com/uwp-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples)). We provide ready-to-deploy enterprise software for dashboards, reports, data integration, and big data processing. Many customers have saved millions in licensing fees by deploying our software.
